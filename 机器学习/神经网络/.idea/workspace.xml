@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7334fe2d-4b3b-47ff-8dfe-b480825cf10a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kh2oLgT5WgCHPUdfC39YasozCz" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.2">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="神经网络" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="神经网络" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="aa" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="神经网络" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/aa.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.aa" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7334fe2d-4b3b-47ff-8dfe-b480825cf10a" name="Default Changelist" comment="" />
+      <created>1606138676997</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606138676997</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1606480237961">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1606480237961" />
+    <state width="1899" height="165" key="GridCell.Tab.0.bottom" timestamp="1609655106895">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="732" height="212" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1607240021377" />
+    <state width="1899" height="165" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609655106895" />
+    <state width="1899" height="165" key="GridCell.Tab.0.center" timestamp="1609655106895">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="732" height="212" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1607240021377" />
+    <state width="1899" height="165" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609655106895" />
+    <state width="1899" height="165" key="GridCell.Tab.0.left" timestamp="1609655106895">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="732" height="212" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1607240021377" />
+    <state width="1899" height="165" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609655106895" />
+    <state width="1899" height="165" key="GridCell.Tab.0.right" timestamp="1609655106895">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="732" height="212" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1607240021377" />
+    <state width="1899" height="165" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609655106895" />
+    <state width="1114" height="380" key="GridCell.Tab.1.bottom" timestamp="1608395317412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1606651643474" />
+    <state width="1114" height="380" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608395317412" />
+    <state width="1114" height="380" key="GridCell.Tab.1.center" timestamp="1608395317412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1606651643474" />
+    <state width="1114" height="380" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608395317412" />
+    <state width="1114" height="380" key="GridCell.Tab.1.left" timestamp="1608395317412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1606651643474" />
+    <state width="1114" height="380" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608395317412" />
+    <state width="1114" height="380" key="GridCell.Tab.1.right" timestamp="1608395317412">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="231" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1606651643474" />
+    <state width="1114" height="380" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608395317412" />
+    <state x="461" y="182" key="SettingsEditor" timestamp="1606467203278">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="461" y="182" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1606467203278" />
+    <state width="968" height="548" key="XDebugger.FullValuePopup" timestamp="1606404600543">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="968" height="548" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1606404600543" />
+    <state x="423" y="426" key="com.intellij.ide.util.TipDialog" timestamp="1609770916116">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="282" y="284" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1608385928028" />
+    <state x="423" y="426" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609770916116" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>195</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>139</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2.py</url>
+          <line>71</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/aa.py</url>
+          <line>26</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

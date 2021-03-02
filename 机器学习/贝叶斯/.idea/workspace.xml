@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="286dd0ef-bd03-442e-b27a-17b2ebe00ea6" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1lOtTkP58UaOa4hAO1y6n7PTEmQ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.kkk">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="贝叶斯" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../机器学习-决策树" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../机器学习-决策树/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kkk" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="贝叶斯" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kkk.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="kkk2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="贝叶斯" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/kkk2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="tt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="贝叶斯" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/tt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.kkk" />
+        <item itemvalue="Python.kkk2" />
+        <item itemvalue="Python.tt" />
+        <item itemvalue="Python.1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="286dd0ef-bd03-442e-b27a-17b2ebe00ea6" name="Default Changelist" comment="" />
+      <created>1607479974198</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607479974198</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="421" y="102" key="FileChooserDialogImpl" timestamp="1607838537219">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="421" y="102" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1607838537219" />
+    <state width="874" height="205" key="GridCell.Tab.0.bottom" timestamp="1609691373456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1608517550552" />
+    <state width="874" height="205" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609691373456" />
+    <state width="874" height="205" key="GridCell.Tab.0.center" timestamp="1609691373456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1608517550552" />
+    <state width="874" height="205" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609691373456" />
+    <state width="874" height="205" key="GridCell.Tab.0.left" timestamp="1609691373456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1608517550552" />
+    <state width="874" height="205" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609691373456" />
+    <state width="874" height="205" key="GridCell.Tab.0.right" timestamp="1609691373456">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1608517550552" />
+    <state width="874" height="205" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609691373456" />
+    <state width="1259" height="203" key="GridCell.Tab.1.bottom" timestamp="1608517550553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1608517550553" />
+    <state width="1899" height="363" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1608137150864" />
+    <state width="1259" height="203" key="GridCell.Tab.1.center" timestamp="1608517550553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1608517550553" />
+    <state width="1899" height="363" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1608137150864" />
+    <state width="1259" height="203" key="GridCell.Tab.1.left" timestamp="1608517550553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1608517550553" />
+    <state width="1899" height="363" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1608137150864" />
+    <state width="1259" height="203" key="GridCell.Tab.1.right" timestamp="1608517550553">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state width="1259" height="203" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1608517550553" />
+    <state width="1899" height="363" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1608137150864" />
+    <state width="971" height="551" key="XDebugger.FullValuePopup" timestamp="1608135297296">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="647" height="367" key="XDebugger.FullValuePopup/0.0.1280.720@0.0.1280.720" timestamp="1608123106233" />
+    <state width="971" height="551" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1608135297296" />
+    <state x="15" y="317" key="com.intellij.ide.util.TipDialog" timestamp="1609778415424">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="10" y="211" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1608516628180" />
+    <state x="15" y="317" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609778415424" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kkk.py</url>
+          <line>178</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../机器学习-决策树/1.py</url>
+          <line>337</line>
+          <option name="timeStamp" value="9" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/tt.py</url>
+          <line>44</line>
+          <option name="timeStamp" value="11" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kkk2.py</url>
+          <line>203</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kkk2.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/kkk.py</url>
+          <line>123</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

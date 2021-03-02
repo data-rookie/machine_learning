@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="35d1ee9e-0103-47d8-b01c-03ba834fc622" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5ftGODQK3XKW6O3pJNBCA1sXA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../对比模型/FDSSC" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.2">
+    <configuration name="1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习-线性模型" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习-线性模型" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="LDA" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习-线性模型" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.5_LDA/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.5_LDA/src/LDA.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sb" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习-线性模型" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sb.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="self_def" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="机器学习-线性模型" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.3_logistic_regression_watermelon/src" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.3_logistic_regression_watermelon/src/self_def.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.2" />
+        <item itemvalue="Python.1" />
+        <item itemvalue="Python.sb" />
+        <item itemvalue="Python.LDA" />
+        <item itemvalue="Python.self_def" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="35d1ee9e-0103-47d8-b01c-03ba834fc622" name="Default Changelist" comment="" />
+      <created>1604995586006</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604995586006</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="445" y="203" key="FileChooserDialogImpl" timestamp="1605524333804">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="445" y="203" key="FileChooserDialogImpl/0.0.1280.720@0.0.1280.720" timestamp="1605524333804" />
+    <state x="667" y="504" key="FileChooserDialogImpl/0.0.1920.1080@0.0.1920.1080" timestamp="1604995663476" />
+    <state width="1899" height="334" key="GridCell.Tab.0.bottom" timestamp="1609583437576">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="57" key="GridCell.Tab.0.bottom/0.0.1280.720@0.0.1280.720" timestamp="1607239684072" />
+    <state width="1899" height="334" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437576" />
+    <state width="1899" height="334" key="GridCell.Tab.0.center" timestamp="1609583437576">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="57" key="GridCell.Tab.0.center/0.0.1280.720@0.0.1280.720" timestamp="1607239684072" />
+    <state width="1899" height="334" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437576" />
+    <state width="1899" height="334" key="GridCell.Tab.0.left" timestamp="1609583437576">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="57" key="GridCell.Tab.0.left/0.0.1280.720@0.0.1280.720" timestamp="1607239684072" />
+    <state width="1899" height="334" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437576" />
+    <state width="1899" height="334" key="GridCell.Tab.0.right" timestamp="1609583437576">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="57" key="GridCell.Tab.0.right/0.0.1280.720@0.0.1280.720" timestamp="1607239684072" />
+    <state width="1899" height="334" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437576" />
+    <state width="1899" height="334" key="GridCell.Tab.1.bottom" timestamp="1609583437577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.bottom/0.0.1280.720@0.0.1280.720" timestamp="1605534163855" />
+    <state width="1899" height="334" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437577" />
+    <state width="1899" height="334" key="GridCell.Tab.1.center" timestamp="1609583437577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.center/0.0.1280.720@0.0.1280.720" timestamp="1605534163855" />
+    <state width="1899" height="334" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437577" />
+    <state width="1899" height="334" key="GridCell.Tab.1.left" timestamp="1609583437577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.left/0.0.1280.720@0.0.1280.720" timestamp="1605534163855" />
+    <state width="1899" height="334" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437577" />
+    <state width="1899" height="334" key="GridCell.Tab.1.right" timestamp="1609583437577">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1259" height="220" key="GridCell.Tab.1.right/0.0.1280.720@0.0.1280.720" timestamp="1605534163855" />
+    <state width="1899" height="334" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1609583437577" />
+    <state x="142" y="3" key="SettingsEditor" timestamp="1605097082881">
+      <screen x="0" y="0" width="1280" height="720" />
+    </state>
+    <state x="142" y="3" key="SettingsEditor/0.0.1280.720@0.0.1280.720" timestamp="1605097082881" />
+    <state width="971" height="551" key="XDebugger.FullValuePopup" timestamp="1605428675532">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="647" height="367" key="XDebugger.FullValuePopup/0.0.1280.720@0.0.1280.720" timestamp="1605274094209" />
+    <state width="971" height="551" key="XDebugger.FullValuePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1605428675532" />
+    <state x="183" y="302" key="com.intellij.ide.util.TipDialog" timestamp="1609753974807">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="122" y="201" key="com.intellij.ide.util.TipDialog/0.0.1280.720@0.0.1280.720" timestamp="1607239282611" />
+    <state x="183" y="302" key="com.intellij.ide.util.TipDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1609753974807" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup" timestamp="1605458625542">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="303" y="41" width="672" height="678" key="search.everywhere.popup/0.0.1280.720@0.0.1280.720" timestamp="1605272374575" />
+    <state x="455" y="62" width="1008" height="1017" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1605458625542" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.3_logistic_regression_watermelon/src/logistic_regression_watermelon.py</url>
+          <line>97</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.3_logistic_regression_watermelon/src/logistic_regression_watermelon.py</url>
+          <line>24</line>
+          <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>317</line>
+          <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2.py</url>
+          <line>205</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2.py</url>
+          <line>199</line>
+          <option name="timeStamp" value="52" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.5_LDA/src/LDA.py</url>
+          <line>79</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/../Machine-Learning_ZhouZhihua-master/ch3_linear_model/3.5_LDA/src/LDA.py</url>
+          <line>126</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/sb.py</url>
+          <line>33</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/programe/anacoda/Lib/site-packages/sklearn/discriminant_analysis.py</url>
+          <line>293</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/programe/anacoda/Lib/site-packages/sklearn/discriminant_analysis.py</url>
+          <line>331</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$USER_HOME$/programe/anacoda/Lib/site-packages/sklearn/discriminant_analysis.py</url>
+          <line>120</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/2.py</url>
+          <line>198</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>241</line>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>238</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/1.py</url>
+          <line>237</line>
+          <option name="timeStamp" value="72" />
+        </line-breakpoint>
+      </breakpoints>
+      <default-breakpoints>
+        <breakpoint type="python-exception">
+          <properties notifyOnTerminate="true" exception="BaseException">
+            <option name="notifyOnTerminate" value="true" />
+          </properties>
+        </breakpoint>
+      </default-breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
